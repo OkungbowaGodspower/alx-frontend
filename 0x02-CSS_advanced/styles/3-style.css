@@ -14,3 +14,16 @@ body,
 a {
   color: var(--text-color);
 }
+html {
+  scroll-behavior: smooth;
+}
+
+.visually-hidden {
+  display: none;
+}
+.card-category {
+  color: #d73953;
+}
+.section-tagline {
+  color: #d73953;
+}
