@@ -1,4 +1,7 @@
 /* Based on styles/1-style.css, create the following declarations: */
+html {
+  scroll-behavior: smooth;
+}
 body {
   color: #161616;
 }
