@@ -331,6 +331,7 @@ html {
 
 .section-tagline {
   color: #d73953;
+  margin: var(--section-tagline-margin);
 }
 .footer {
   padding: var(--footer-padding);
