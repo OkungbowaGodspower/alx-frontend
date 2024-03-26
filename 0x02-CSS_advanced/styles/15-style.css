@@ -1,5 +1,6 @@
 *,
-be {
+*::before,
+*::after {
   box-sizing: border-box;
 }
 /* ADD NORMALIZE */
